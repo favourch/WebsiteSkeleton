@@ -1,0 +1,49 @@
+/*
+* Skeleton V2.0.4 - 100% Width CSS
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Grid
+*/
+
+
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container                  { width: 100%; max-width: 100%; }
+.container .columns         { margin-left: 0;}
+.container .one.column,
+.container .one.columns		{ width: 8.3333333333%;}
+.container .two.columns		{ width: 16.6666666667%;}
+.container .three.columns   { width: 25%;}
+.container .four.columns    { width: 33.3333333333%;}
+.container .six.columns     { width: 50%; }
+.container .eight.columns   { width: 66.6666666667%; }
+.container .nine.columns    { width: 75%; }
+.container .ten.columns		{ width: 83.3333333333%; }
+.container .eleven.columns  { width: 91.6666666667%; }
+.container .twleve.columns  { width: 100%; }
+
+.container .one-third.column               { width: 33.3333333333%; }
+.container .two-thirds.column              { width: 66.6666666667%; }
+
+.container .one-half.column                { width: 50%; }
+
+.container .columns:first-child   {}
+.container .columns:last-child    {}
+
+@media (max-width: 699px) and (min-width: 300px){
+    .container.main                 {padding-right: 0; padding-left: 0;}
+    .container,
+    .container .three.columns,
+    .container .four.columns,
+    .container .six.columns,
+    .container .eight.columns,
+    .container .nine.columns        { width: 100%; max-width: 100%; }
+}
