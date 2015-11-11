@@ -115,7 +115,7 @@ OR
   <footer class="container">
     <div class="row">
       <div class="six columns">Powered by &copy; __BRAND_NAME__</div>
-      <div class="six columns">[FOOTER LINKS & SOCIAL MEDIA LINKS]</div>
+      <div class="six columns">[FOOTER LINKS and SOCIAL MEDIA LINKS]</div>
     </div><!-- /row -->
   </footer><!-- /footer container -->
   
