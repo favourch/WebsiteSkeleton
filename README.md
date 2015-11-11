@@ -29,3 +29,25 @@ A simple website skeleton for quick web development. Download and start now!
 ...
 </head>
 ```
+
+#### 3. Using Open Fonts
+```html
+<!-- FONT
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+OR
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+```
+
+#### 4. CSS Files
+```html
+<!-- CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/skeleton.css">
+<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css"> [Optional]
+<link rel="stylesheet" href="js/sidr/stylesheets/jquery.sidr.dark.css"> [Optional]
+<link rel="stylesheet" href="css/style.css"> [Custome Styling]
+```
