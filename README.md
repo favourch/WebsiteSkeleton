@@ -81,3 +81,49 @@ OR
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.sidr.min.js"></script> [Optional]
 ```	
+
+#### 7. Body Part
+```html
+<body>
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  <!-- Header Section
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <header class="container">
+    <div class="row">
+      <div class="four columns">[BRANDING LOGO]</div>
+      <div class="eight columns">[MENU LINKS]</div>
+    </div><!-- /row -->
+  </header><!-- /header container -->
+  
+  <!-- Content Section
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <div class="row">
+      <div class="tweleve columns">[CONTENT]</div>
+    </div><!-- /row -->
+    <div class="row">
+      <div class="four columns">[BOX 1]</div>
+      <div class="four columns">[BOX 2]</div>
+      <div class="four columns">[BOX 3]</div>
+    </div><!-- /row -->
+  </div><!-- /container -->
+  
+  <!-- Footer Section
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <footer class="container">
+    <div class="row">
+      <div class="six columns">Powered by &copy; __BRAND_NAME__</div>
+      <div class="six columns">[FOOTER LINKS & SOCIAL MEDIA LINKS]</div>
+    </div><!-- /row -->
+  </footer><!-- /footer container -->
+  
+  <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  <!-- Additional JS / Scripts 
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+</body>
+```	
