@@ -51,3 +51,32 @@ OR
 <link rel="stylesheet" href="js/sidr/stylesheets/jquery.sidr.dark.css"> [Optional]
 <link rel="stylesheet" href="css/style.css"> [Custome Styling]
 ```
+
+#### 5. Favicon Generator
+```html
+<!-- Favicon via http://iconifier.net/
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link rel="shortcut icon" href="images/iconified/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="images/iconified/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="images/iconified/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/iconified/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="images/iconified/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/iconified/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="images/iconified/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="images/iconified/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="images/iconified/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/iconified/apple-touch-icon-180x180.png">
+```	
+
+#### 6. Include JS Files
+```html
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.sidr.min.js"></script> [Optional]
+```	
